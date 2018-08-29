@@ -1,2 +1,1 @@
-# copy_MaggieLermanPortfolio
-working copy
+# MaggieLermanPortfolio
